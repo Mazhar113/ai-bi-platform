@@ -1,0 +1,11 @@
+fastapi==0.99.2
+uvicorn[standard]==0.23.1
+pandas==2.2.2
+sqlalchemy==2.0.19
+psycopg2-binary==2.9.10
+scikit-learn==1.2.2
+joblib==1.2.0
+shap==0.42.1
+numpy==1.26.2
+python-jose==3.4.0
+sqlparse==0.4.4
